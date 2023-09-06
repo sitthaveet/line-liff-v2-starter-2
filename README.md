@@ -1,4 +1,4 @@
-# LIFF Starter
+# My LIFF Starter App
 
 LIFF Starter is a good starter template can help you understand how to integrate LIFF into your own development environment.
 
